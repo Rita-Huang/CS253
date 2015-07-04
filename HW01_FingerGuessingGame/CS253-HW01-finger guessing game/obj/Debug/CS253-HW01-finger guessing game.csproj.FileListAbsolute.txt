@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\bin\Debug\CS253-HW01-finger guessing game.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\bin\Debug\CS253-HW01-finger guessing game.exe
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\bin\Debug\CS253-HW01-finger guessing game.pdb
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\obj\Debug\CS253-HW01-finger guessing game.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\obj\Debug\CS253-HW01-finger guessing game.exe
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW01-finger guessing game\CS253-HW01-finger guessing game\obj\Debug\CS253-HW01-finger guessing game.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW01-FingerGuessingGame\CS253-HW01-finger guessing game\bin\Debug\CS253-HW01-finger guessing game.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW01-FingerGuessingGame\CS253-HW01-finger guessing game\obj\Debug\CS253-HW01-finger guessing game.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW01-FingerGuessingGame\CS253-HW01-finger guessing game\obj\Debug\CS253-HW01-finger guessing game.pdb
