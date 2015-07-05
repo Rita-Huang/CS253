@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\bin\Debug\Elsa.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\bin\Debug\Elsa.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\bin\Debug\Elsa.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\obj\Debug\Elsa.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\obj\Debug\Elsa.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\obj\Debug\HW05-DrawASquare.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\obj\Debug\Elsa.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW05_ElsaMoveV2\obj\Debug\Elsa.pdb

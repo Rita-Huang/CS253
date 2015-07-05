@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW04-DrawALine", "HW04_ElsaMoveV2\HW04-DrawALine.csproj", "{B01A2B41-3FF6-4433-93D9-34FAFBA5943F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW05-DrawASquare", "HW05_ElsaMoveV2\HW05-DrawASquare.csproj", "{92EFA594-5425-4F3E-A1A5-E3E7B1942735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW06-DrawMultipleSquare", "HW06_ElsaMoveV2\HW06-DrawMultipleSquare.csproj", "{75443A2E-58C2-4703-A77B-08A81CD0E697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01A2B41-3FF6-4433-93D9-34FAFBA5943F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01A2B41-3FF6-4433-93D9-34FAFBA5943F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01A2B41-3FF6-4433-93D9-34FAFBA5943F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01A2B41-3FF6-4433-93D9-34FAFBA5943F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EFA594-5425-4F3E-A1A5-E3E7B1942735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EFA594-5425-4F3E-A1A5-E3E7B1942735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EFA594-5425-4F3E-A1A5-E3E7B1942735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EFA594-5425-4F3E-A1A5-E3E7B1942735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75443A2E-58C2-4703-A77B-08A81CD0E697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75443A2E-58C2-4703-A77B-08A81CD0E697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75443A2E-58C2-4703-A77B-08A81CD0E697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75443A2E-58C2-4703-A77B-08A81CD0E697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

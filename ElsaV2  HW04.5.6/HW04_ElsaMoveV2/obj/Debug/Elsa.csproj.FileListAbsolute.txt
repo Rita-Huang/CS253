@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\bin\Debug\Elsa.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\bin\Debug\Elsa.exe
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\bin\Debug\Elsa.pdb
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.exe
+c:\users\user\documents\visual studio 2013\Projects\Elsa\ElsaMove\obj\Debug\Elsa.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\bin\Debug\Elsa.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\bin\Debug\Elsa.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\bin\Debug\Elsa.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\ElsaMove\obj\Debug\Elsa.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW04_ElsaMoveV2\bin\Debug\Elsa.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW04_ElsaMoveV2\obj\Debug\Elsa.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV2  150705 作業繳交版\HW04_ElsaMoveV2\obj\Debug\Elsa.pdb
