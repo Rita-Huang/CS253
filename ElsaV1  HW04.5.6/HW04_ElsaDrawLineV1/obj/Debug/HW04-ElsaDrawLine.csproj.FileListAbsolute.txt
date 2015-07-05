@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\bin\Debug\ElsaDrawLine.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\bin\Debug\ElsaDrawLine.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\bin\Debug\ElsaDrawLine.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\ElsaDrawLine.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\ElsaDrawLine.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\HW04-ElsaDrawLine.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\ElsaDrawLine.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\ElsaDrawLine.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\vHW04_ElsaDrawLine\ElsaDrawLine\obj\Debug\HW04-ElsaDrawLine.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\HW04_ElsaDrawLineV1\bin\Debug\ElsaDrawLine.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\HW04_ElsaDrawLineV1\obj\Debug\ElsaDrawLine.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa  150705 作業繳交版\HW04_ElsaDrawLineV1\obj\Debug\ElsaDrawLine.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW04_ElsaDrawLineV1\bin\Debug\ElsaDrawLine.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW04_ElsaDrawLineV1\obj\Debug\ElsaDrawLine.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW04_ElsaDrawLineV1\obj\Debug\ElsaDrawLine.pdb

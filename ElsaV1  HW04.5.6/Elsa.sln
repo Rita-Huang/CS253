@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW04-ElsaDrawLine", "HW04_ElsaDrawLineV1\HW04-ElsaDrawLine.csproj", "{0A1F44D1-1DA5-40C4-8869-96C72BA9F971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW05-DrawARectangle", "HW05_DrawARectangleV1\HW05-DrawARectangle.csproj", "{C840A170-1864-4B8B-9CE5-1C2E73CD3864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW06-DrawMultipleSuare", "HW06_DrawMultipleSuareV1\HW06-DrawMultipleSuare.csproj", "{76265C13-CB7E-4AAD-8507-52F8090C8681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1F44D1-1DA5-40C4-8869-96C72BA9F971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1F44D1-1DA5-40C4-8869-96C72BA9F971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1F44D1-1DA5-40C4-8869-96C72BA9F971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1F44D1-1DA5-40C4-8869-96C72BA9F971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C840A170-1864-4B8B-9CE5-1C2E73CD3864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C840A170-1864-4B8B-9CE5-1C2E73CD3864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C840A170-1864-4B8B-9CE5-1C2E73CD3864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C840A170-1864-4B8B-9CE5-1C2E73CD3864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76265C13-CB7E-4AAD-8507-52F8090C8681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76265C13-CB7E-4AAD-8507-52F8090C8681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76265C13-CB7E-4AAD-8507-52F8090C8681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76265C13-CB7E-4AAD-8507-52F8090C8681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

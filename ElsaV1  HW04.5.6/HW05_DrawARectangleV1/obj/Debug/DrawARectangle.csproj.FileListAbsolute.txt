@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW05\DrawARectangle\bin\Debug\DrawARectangle.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW05\DrawARectangle\obj\Debug\DrawARectangle.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW05\DrawARectangle\obj\Debug\DrawARectangle.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW05\DrawARectangle\obj\Debug\DrawARectangle.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\CS253-HW05\DrawARectangle\obj\Debug\DrawARectangle.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\bin\Debug\DrawARectangle.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\bin\Debug\DrawARectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\bin\Debug\DrawARectangle.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CS253-HW05\DrawARectangle2\obj\Debug\DrawARectangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\bin\Debug\DrawARectangle.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\obj\Debug\DrawARectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\obj\Debug\DrawARectangle.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\bin\Debug\DrawARectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\bin\Debug\DrawARectangle.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\obj\Debug\DrawARectangle.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\obj\Debug\DrawARectangle.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawARectangle2\obj\Debug\HW05-DrawARectangle.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW05_DrawARectangleV1\bin\Debug\DrawARectangle.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW05_DrawARectangleV1\obj\Debug\DrawARectangle.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW05_DrawARectangleV1\obj\Debug\DrawARectangle.pdb

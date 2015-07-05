@@ -1,0 +1,18 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\bin\Debug\DrawMultipleSuare.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\DrawMultipleSuare.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\DrawMultipleSuare.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\bin\Debug\DrawMultipleSuare.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\bin\Debug\DrawMultipleSuare.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\DrawMultipleSuare.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\DrawMultipleSuare.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\HW06-DrawMultipleSuare.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Elsa\新增資料夾\DrawMultipleSuare\obj\Debug\HW06-DrawMultipleSuare.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\bin\Debug\DrawMultipleSuare.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\DrawMultipleSuare.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\DrawMultipleSuare.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\bin\Debug\DrawMultipleSuare.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\bin\Debug\DrawMultipleSuare.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\HW06-DrawMultipleSuare.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\DrawMultipleSuare.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\DrawMultipleSuare.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ElsaV1  150705 作業繳交版\HW06_DrawMultipleSuareV1\obj\Debug\HW06-DrawMultipleSuare.csproj.GenerateResource.Cache
