@@ -8,13 +8,7 @@ namespace ElsaDrawLine
 {
     internal class Person
     {
-        public String name;
-        public Position position;
-
-        public Person()
-        {
-            this.position = new Position();
-        }
+        public Position position = new Position();
 
         public Position MoveForward(float dx)
         {

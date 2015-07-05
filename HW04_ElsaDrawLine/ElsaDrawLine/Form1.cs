@@ -16,15 +16,15 @@ namespace ElsaDrawLine
         private Person Snoopy = new Person();
         private float velocity = 50.0f;
         private int countMoveTimes = 0;
-        private Point startLocation;
+
+        private Point pt1 = new Point();
+        private Point pt2 = new Point();
 
         public Form1()
         {
             InitializeComponent();
-            Snoopy.name = "Snoopy";
-            Snoopy.position.X = 0.0f;
-            Snoopy.position.Y = 0.0f;
-            startLocation = snoopyImage.Location;
+            pt1.X = snoopyImage.Location.X;
+            pt1.Y = snoopyImage.Location.Y + 170;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -42,9 +42,18 @@ namespace ElsaDrawLine
 
         private void timer_Tick(object sender, EventArgs e)
         {
+            if (countMoveTimes > 0)
+            {
+                pt1.X = pt2.X;
+                pt1.Y = pt2.Y;
+            }
+
             Position position = UpdatePosition();
             snoopyImage.Location = new Point((int)this.Snoopy.position.X, (int)this.Snoopy.position.Y);
             messageTextBox.Text = string.Format("現在位置  x={0},y={1}   countMoveTimes={2}", snoopyImage.Location.X, snoopyImage.Location.Y, countMoveTimes);
+
+            pt2.X = snoopyImage.Location.X;
+            pt2.Y = snoopyImage.Location.Y + 170;
 
             if (countMoveTimes % 3 == 0)
                 snoopyImage.Image = ElsaDrawLine.Properties.Resources.snoopy_walk_4;
@@ -53,10 +62,7 @@ namespace ElsaDrawLine
             else
                 snoopyImage.Image = ElsaDrawLine.Properties.Resources.snoopy_walk_6;
 
-            Point drawPoint = new Point();
-            drawPoint.X = this.snoopyImage.Location.X;
-            drawPoint.Y = this.snoopyImage.Location.Y + 170;
-            Draw(drawPoint);
+            Draw(pt1, pt2);
         }
 
         private void startButtom_Click(object sender, EventArgs e)
@@ -72,10 +78,9 @@ namespace ElsaDrawLine
             g.DrawPath(new Pen(Color.Red), gp);
         }
 
-        private void Draw(Point pt1)
+        private void Draw(Point pt1, Point pt2)
         {
-            startLocation.Y = pt1.Y;
-            gp.AddLine(startLocation, pt1);
+            gp.AddLine(pt1, pt2);
             Invalidate();
         }
     }
